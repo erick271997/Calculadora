@@ -69,8 +69,7 @@ const habdlePin=()=>{
         <button onClick={habdlexpone}>x²</button>
         <button onClick={habdlexpone3}>x3</button>
         <button onClick={habdlRaiz}>√</button>
-        <button onClick={habdlePin}>π</button> 
-
+        <button onClick={habdlePin}>π</button>
       
         <button onClick={() => handleClick('.')}>.</button>
         <button onClick={handleCalculate}>=</button>
