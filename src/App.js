@@ -1,6 +1,6 @@
 
 import './App.css';
-import Calcudora from './calcudora';
+import Calcudora from './Calcudora';
 
 function App() {
   return (
